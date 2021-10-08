@@ -1,0 +1,1557 @@
+{
+    "font_size": 0.4,
+    "font_color": "#FFFFFF",
+    "background_alpha": 0.5,
+    "background_color": "#9C27B0",
+    "Stroke": "none",
+    "body": [
+        {
+            "content": "「字幕由 富睿字幕组 搬运」",
+            "from": 0,
+            "location": 2,
+            "to": 3
+        },
+        {
+            "from": 2.12,
+            "to": 5.41,
+            "location": 2,
+            "content": "距离现在稍微久远的以前"
+        },
+        {
+            "from": 5.41,
+            "to": 10.33,
+            "location": 2,
+            "content": "天空中有着许多流星的夜晚"
+        },
+        {
+            "from": 10.33,
+            "to": 14.04,
+            "location": 2,
+            "content": "闪闪发亮 美丽无比的石头"
+        },
+        {
+            "from": 14.04,
+            "to": 16.16,
+            "location": 2,
+            "content": "降落在这颗星球"
+        },
+        {
+            "from": 18.16,
+            "to": 23.12,
+            "location": 2,
+            "content": "那颗石头"
+        },
+        {
+            "from": 23.95,
+            "to": 29.12,
+            "location": 2,
+            "content": "世界上许多人"
+        },
+        {
+            "from": 30.5,
+            "to": 34.2,
+            "location": 2,
+            "content": "然而 好多年过去了"
+        },
+        {
+            "from": 34.2,
+            "to": 36.79,
+            "location": 2,
+            "content": "流星飞逝的夜晚"
+        },
+        {
+            "from": 36.79,
+            "to": 42.41,
+            "location": 2,
+            "content": "这次 落下了漆黑的石头"
+        },
+        {
+            "from": 44.0,
+            "to": 49.16,
+            "location": 2,
+            "content": "许多可怕的怪物"
+        },
+        {
+            "from": 49.16,
+            "to": 53.62,
+            "location": 2,
+            "content": "人类 动物 花草树木"
+        },
+        {
+            "from": 53.62,
+            "to": 56.25,
+            "location": 2,
+            "content": "都被破坏殆尽"
+        },
+        {
+            "from": 57.25,
+            "to": 60.62,
+            "location": 2,
+            "content": "就在大家都放弃希望"
+        },
+        {
+            "from": 60.62,
+            "to": 64.08,
+            "location": 2,
+            "content": "觉得世界就此毁坏之时"
+        },
+        {
+            "from": 64.08,
+            "to": 67.33,
+            "location": 2,
+            "content": "\"那个\" 出现了"
+        },
+        {
+            "from": 75.2,
+            "to": 77.58,
+            "location": 2,
+            "content": "妈妈 这是什么"
+        },
+        {
+            "from": 78.58,
+            "to": 80.2,
+            "location": 2,
+            "content": "是\"奏者\""
+        },
+        {
+            "from": 81.79,
+            "to": 84.5,
+            "location": 2,
+            "content": "而这个人 是\"指挥者\""
+        },
+        {
+            "from": 84.5,
+            "to": 87.25,
+            "location": 2,
+            "content": "拥有不可思议石头的力量"
+        },
+        {
+            "from": 87.25,
+            "to": 89.41,
+            "location": 2,
+            "content": "以音乐而战"
+        },
+        {
+            "from": 90.37,
+            "to": 92.45,
+            "location": 2,
+            "content": "\"音乐\""
+        },
+        {
+            "from": 92.45,
+            "to": 98.7,
+            "location": 2,
+            "content": "抱歉 一直没让妳接触音乐"
+        },
+        {
+            "from": 98.7,
+            "to": 102.75,
+            "location": 2,
+            "content": "不过以后 一定能听到音乐的"
+        },
+        {
+            "from": 104.83,
+            "to": 107.5,
+            "location": 2,
+            "content": "我们 会一直待在这座小镇吗"
+        },
+        {
+            "from": 110.75,
+            "to": 112.16,
+            "location": 2,
+            "content": "是啊…"
+        },
+        {
+            "from": 114.37,
+            "to": 115.95,
+            "location": 2,
+            "content": "那我出去一下"
+        },
+        {
+            "from": 115.95,
+            "to": 117.5,
+            "location": 2,
+            "content": "不能去太远喔"
+        },
+        {
+            "from": 117.5,
+            "to": 119.95,
+            "location": 2,
+            "content": "我只是去附近的市集看看"
+        },
+        {
+            "from": 143.29,
+            "to": 144.75,
+            "location": 2,
+            "content": "这是什么"
+        },
+        {
+            "from": 163.79,
+            "to": 166.95,
+            "location": 2,
+            "content": "这个 叫做\"钢琴\""
+        },
+        {
+            "from": 166.95,
+            "to": 168.54,
+            "location": 2,
+            "content": "\"钢琴\"…"
+        },
+        {
+            "from": 171.0,
+            "to": 174.54,
+            "location": 2,
+            "content": "不错 有好好调音"
+        },
+        {
+            "from": 174.54,
+            "to": 177.0,
+            "location": 2,
+            "content": "直立式钢琴 有如此音色"
+        },
+        {
+            "from": 179.12,
+            "to": 182.5,
+            "location": 2,
+            "content": "是吗 你一直在等待着"
+        },
+        {
+            "from": 184.91,
+            "to": 187.83,
+            "location": 2,
+            "content": "等待着音乐归来之时"
+        },
+        {
+            "from": 189.0,
+            "to": 190.62,
+            "location": 2,
+            "content": "\"音乐\"…"
+        },
+        {
+            "from": 191.29,
+            "to": 193.87,
+            "location": 2,
+            "content": "什么是\"音乐\""
+        },
+        {
+            "from": 228.33,
+            "to": 231.7,
+            "location": 2,
+            "content": "妈妈 这… 这是什么"
+        },
+        {
+            "from": 234.95,
+            "to": 238.08,
+            "location": 2,
+            "content": "-他好厉害"
+        },
+        {
+            "from": 251.54,
+            "to": 253.91,
+            "location": 2,
+            "content": "-快逃"
+        },
+        {
+            "from": 258.95,
+            "to": 260.08,
+            "location": 2,
+            "content": "吉米"
+        },
+        {
+            "from": 264.91,
+            "to": 267.0,
+            "location": 2,
+            "content": "第五号交响曲"
+        },
+        {
+            "from": 269.66,
+            "to": 270.75,
+            "location": 2,
+            "content": "命运"
+        },
+        {
+            "from": 294.95,
+            "to": 296.16,
+            "location": 2,
+            "content": "演奏开始"
+        },
+        {
+            "from": 299.29,
+            "to": 300.66,
+            "location": 2,
+            "content": "是奏者"
+        },
+        {
+            "from": 307.75,
+            "to": 308.83,
+            "location": 2,
+            "content": "奏乐"
+        },
+        {
+            "from": 324.62,
+            "to": 325.91,
+            "location": 2,
+            "content": "吉米"
+        },
+        {
+            "from": 332.95,
+            "to": 335.95,
+            "location": 2,
+            "content": "这就是… 音乐"
+        },
+        {
+            "from": 345.04,
+            "to": 346.41,
+            "location": 2,
+            "content": "大哥哥"
+        },
+        {
+            "from": 348.62,
+            "to": 352.16,
+            "location": 2,
+            "content": "你够了喔 指挥家磔人"
+        },
+        {
+            "from": 352.16,
+            "to": 355.66,
+            "location": 2,
+            "content": "才打倒一只中型的D2"
+        },
+        {
+            "from": 355.66,
+            "to": 358.0,
+            "location": 2,
+            "content": "要怎么抵达纽约呢"
+        },
+        {
+            "from": 358.0,
+            "to": 361.83,
+            "location": 2,
+            "content": "需要增强体力和心灵"
+        },
+        {
+            "from": 361.83,
+            "to": 367.62,
+            "location": 2,
+            "content": "是妳 总是用没效率的方式战斗"
+        },
+        {
+            "from": 367.62,
+            "to": 371.0,
+            "location": 2,
+            "content": "妳这是在浪费我的生命"
+        },
+        {
+            "from": 371.0,
+            "to": 375.08,
+            "location": 2,
+            "content": "狮子在狩猎兔子时"
+        },
+        {
+            "from": 375.08,
+            "to": 380.25,
+            "location": 2,
+            "content": "妳只是无法 好好控制力道罢了"
+        },
+        {
+            "from": 380.25,
+            "to": 384.41,
+            "location": 2,
+            "content": "关于这点 也不是我所乐意的"
+        },
+        {
+            "from": 384.41,
+            "to": 389.08,
+            "location": 2,
+            "content": "客观来说 身为兵器"
+        },
+        {
+            "from": 389.08,
+            "to": 391.75,
+            "location": 2,
+            "content": "抵达纽约交响乐团时"
+        },
+        {
+            "from": 391.75,
+            "to": 393.41,
+            "location": 2,
+            "content": "请务必帮我做调整"
+        },
+        {
+            "from": 393.41,
+            "to": 396.33,
+            "location": 2,
+            "content": "妳能先拉我起来吗"
+        },
+        {
+            "from": 396.33,
+            "to": 398.33,
+            "location": 2,
+            "content": "神经大条的奏者"
+        },
+        {
+            "from": 403.04,
+            "to": 407.08,
+            "location": 2,
+            "content": "磔人 你又做了什么"
+        },
+        {
+            "from": 407.08,
+            "to": 408.5,
+            "location": 2,
+            "content": "安娜…"
+        },
+        {
+            "from": 409.5,
+            "to": 413.87,
+            "location": 2,
+            "content": "我去采购的这10分钟"
+        },
+        {
+            "from": 413.87,
+            "to": 415.41,
+            "location": 2,
+            "content": "真令人难以置信"
+        },
+        {
+            "from": 415.41,
+            "to": 417.5,
+            "location": 2,
+            "content": "-是她"
+        },
+        {
+            "from": 417.5,
+            "to": 418.41,
+            "location": 2,
+            "content": "Shut up"
+        },
+        {
+            "from": 418.41,
+            "to": 419.41,
+            "location": 2,
+            "content": "撤"
+        },
+        {
+            "from": 423.66,
+            "to": 425.37,
+            "location": 2,
+            "content": "失礼了"
+        },
+        {
+            "from": 425.37,
+            "to": 429.04,
+            "location": 2,
+            "content": "各位居民们 请回到平常生活"
+        },
+        {
+            "from": 430.16,
+            "to": 432.12,
+            "location": 2,
+            "content": "珂赛特 走了"
+        },
+        {
+            "from": 432.12,
+            "to": 434.12,
+            "location": 2,
+            "content": "好的 安娜姊姊"
+        },
+        {
+            "from": 445.5,
+            "to": 448.87,
+            "location": 2,
+            "content": "(九月三日 2047年)"
+        },
+        {
+            "from": 449.66,
+            "to": 451.29,
+            "location": 2,
+            "content": "磔人"
+        },
+        {
+            "from": 451.29,
+            "to": 454.16,
+            "location": 2,
+            "content": "你真的知道现在的情况吗"
+        },
+        {
+            "from": 454.16,
+            "to": 457.58,
+            "location": 2,
+            "content": "纽约还很远 还有很长一段距离"
+        },
+        {
+            "from": 457.58,
+            "to": 459.95,
+            "location": 2,
+            "content": "途中不知道会发生什么事"
+        },
+        {
+            "from": 459.95,
+            "to": 464.62,
+            "location": 2,
+            "content": "大家不有点自觉再行动"
+        },
+        {
+            "from": 464.62,
+            "to": 467.95,
+            "location": 2,
+            "content": "禁止你们再擅自行动了"
+        },
+        {
+            "from": 470.16,
+            "to": 473.08,
+            "location": 2,
+            "content": "拜托 别再敲了"
+        },
+        {
+            "from": 473.08,
+            "to": 474.25,
+            "location": 2,
+            "content": "弹不够啊"
+        },
+        {
+            "from": 474.25,
+            "to": 476.45,
+            "location": 2,
+            "content": "你会害我很烦躁"
+        },
+        {
+            "from": 476.45,
+            "to": 478.66,
+            "location": 2,
+            "content": "那是货真价实的钢琴键盘"
+        },
+        {
+            "from": 478.66,
+            "to": 480.33,
+            "location": 2,
+            "content": "而且还能弹出声音"
+        },
+        {
+            "from": 480.33,
+            "to": 482.0,
+            "location": 2,
+            "content": "妳知道我有多久没弹琴了吗"
+        },
+        {
+            "from": 482.0,
+            "to": 484.0,
+            "location": 2,
+            "content": "你有在听我说话吗"
+        },
+        {
+            "from": 484.0,
+            "to": 486.41,
+            "location": 2,
+            "content": "我不弹琴会死掉的"
+        },
+        {
+            "from": 486.41,
+            "to": 488.12,
+            "location": 2,
+            "content": "指挥家 以常识来看"
+        },
+        {
+            "from": 488.12,
+            "to": 492.79,
+            "location": 2,
+            "content": "之后几乎不可能像刚才一样弹琴喔"
+        },
+        {
+            "from": 492.79,
+            "to": 495.16,
+            "location": 2,
+            "content": "你别跟我说常识"
+        },
+        {
+            "from": 495.16,
+            "to": 496.54,
+            "location": 2,
+            "content": "你这个神经大条的奏者"
+        },
+        {
+            "from": 496.54,
+            "to": 498.08,
+            "location": 2,
+            "content": "出现D2的话"
+        },
+        {
+            "from": 498.08,
+            "to": 501.16,
+            "location": 2,
+            "content": "妳全部打倒不就好了"
+        },
+        {
+            "from": 501.16,
+            "to": 502.45,
+            "location": 2,
+            "content": "可以啊"
+        },
+        {
+            "from": 502.45,
+            "to": 505.37,
+            "location": 2,
+            "content": "那么我得摄取足够的卡路里…"
+        },
+        {
+            "from": 509.04,
+            "to": 511.0,
+            "location": 2,
+            "content": "没了"
+        },
+        {
+            "from": 512.25,
+            "to": 514.16,
+            "location": 2,
+            "content": "珂赛特 对不起喔"
+        },
+        {
+            "from": 514.16,
+            "to": 517.79,
+            "location": 2,
+            "content": "那座小镇 只能买到这些点心"
+        },
+        {
+            "from": 518.87,
+            "to": 520.37,
+            "location": 2,
+            "content": "这样啊"
+        },
+        {
+            "from": 521.08,
+            "to": 523.66,
+            "location": 2,
+            "content": "这家伙的燃料费太糟了"
+        },
+        {
+            "from": 523.66,
+            "to": 525.37,
+            "location": 2,
+            "content": "妳也太宠她了"
+        },
+        {
+            "from": 525.37,
+            "to": 527.41,
+            "location": 2,
+            "content": "让她吃地瓜就好啦"
+        },
+        {
+            "from": 527.41,
+            "to": 530.12,
+            "location": 2,
+            "content": "她是我唯一的妹妹嘛"
+        },
+        {
+            "from": 530.12,
+            "to": 533.83,
+            "location": 2,
+            "content": "纽约还有夏洛特在啊"
+        },
+        {
+            "from": 533.83,
+            "to": 535.62,
+            "location": 2,
+            "content": "洛特-加龙省是姊姊"
+        },
+        {
+            "from": 535.62,
+            "to": 537.41,
+            "location": 2,
+            "content": "我只有一位妹妹珂赛特"
+        },
+        {
+            "from": 537.41,
+            "to": 539.83,
+            "location": 2,
+            "content": "你怎么就是不懂呢"
+        },
+        {
+            "from": 539.83,
+            "to": 541.83,
+            "location": 2,
+            "content": "对吧 珂赛特"
+        },
+        {
+            "from": 541.83,
+            "to": 543.91,
+            "location": 2,
+            "content": "对 姊姊"
+        },
+        {
+            "from": 543.91,
+            "to": 547.91,
+            "location": 2,
+            "content": "回到正题 我们必须动作快"
+        },
+        {
+            "from": 547.91,
+            "to": 550.95,
+            "location": 2,
+            "content": "你也想早点让珂赛特做检查吧"
+        },
+        {
+            "from": 550.95,
+            "to": 552.75,
+            "location": 2,
+            "content": "也需要甜食"
+        },
+        {
+            "from": 553.62,
+            "to": 556.62,
+            "location": 2,
+            "content": "对 那当然"
+        },
+        {
+            "from": 561.66,
+            "to": 565.62,
+            "location": 2,
+            "content": "(第一乐章 指挥)"
+        },
+        {
+            "from": 565.62,
+            "to": 568.83,
+            "location": 2,
+            "content": "-老实说 时机非常不好"
+        },
+        {
+            "from": 569.45,
+            "to": 573.62,
+            "location": 2,
+            "content": "要去纽约的话 走这条是快捷方式吧"
+        },
+        {
+            "from": 573.62,
+            "to": 576.45,
+            "location": 2,
+            "content": "去不了 路不通"
+        },
+        {
+            "from": 576.45,
+            "to": 578.25,
+            "location": 2,
+            "content": "原本往东海岸走"
+        },
+        {
+            "from": 578.25,
+            "to": 581.62,
+            "location": 2,
+            "content": "正好会通过一座小镇"
+        },
+        {
+            "from": 584.79,
+            "to": 587.79,
+            "location": 2,
+            "content": "但D2却在那里筑巢"
+        },
+        {
+            "from": 589.83,
+            "to": 594.75,
+            "location": 2,
+            "content": "小镇好不容易复兴 恢复活力"
+        },
+        {
+            "from": 594.75,
+            "to": 598.7,
+            "location": 2,
+            "content": "可是却突然出现好几只D2"
+        },
+        {
+            "from": 598.7,
+            "to": 601.33,
+            "location": 2,
+            "content": "小镇的人几乎都逃走"
+        },
+        {
+            "from": 601.33,
+            "to": 605.08,
+            "location": 2,
+            "content": "回到复兴前的模样了"
+        },
+        {
+            "from": 605.08,
+            "to": 607.83,
+            "location": 2,
+            "content": "所以也越来越少人经过这里了"
+        },
+        {
+            "from": 607.83,
+            "to": 612.12,
+            "location": 2,
+            "content": "再这样下去 我们这家店"
+        },
+        {
+            "from": 612.12,
+            "to": 613.58,
+            "location": 2,
+            "content": "真伤脑筋"
+        },
+        {
+            "from": 619.0,
+            "to": 621.87,
+            "location": 2,
+            "content": "如果要避开这条路…"
+        },
+        {
+            "from": 621.87,
+            "to": 625.41,
+            "location": 2,
+            "content": "只能往南 绕一大圈过去吧"
+        },
+        {
+            "from": 625.41,
+            "to": 628.75,
+            "location": 2,
+            "content": "不过 那边复兴得很慢"
+        },
+        {
+            "from": 628.75,
+            "to": 634.66,
+            "location": 2,
+            "content": "道路差 桥断掉"
+        },
+        {
+            "from": 637.66,
+            "to": 640.75,
+            "location": 2,
+            "content": "想好再行动 似乎过于天真了"
+        },
+        {
+            "from": 640.75,
+            "to": 643.87,
+            "location": 2,
+            "content": "嗯 但我不想被你这么说"
+        },
+        {
+            "from": 643.87,
+            "to": 648.29,
+            "location": 2,
+            "content": "扎甘GM的休止宣言已经过了四年"
+        },
+        {
+            "from": 648.29,
+            "to": 653.0,
+            "location": 2,
+            "content": "我们究竟要提心吊胆的生活到何时"
+        },
+        {
+            "from": 659.41,
+            "to": 661.5,
+            "location": 2,
+            "content": "到哪都一样…"
+        },
+        {
+            "from": 662.95,
+            "to": 666.62,
+            "location": 2,
+            "content": "指挥家 卡路里摄取完毕"
+        },
+        {
+            "from": 666.62,
+            "to": 670.45,
+            "location": 2,
+            "content": "能继续执行方才的指示吗"
+        },
+        {
+            "from": 670.45,
+            "to": 671.91,
+            "location": 2,
+            "content": "什么指示"
+        },
+        {
+            "from": 671.91,
+            "to": 675.79,
+            "location": 2,
+            "content": "我感觉到那个方向有复数的D2"
+        },
+        {
+            "from": 675.79,
+            "to": 679.87,
+            "location": 2,
+            "content": "如果是我的话"
+        },
+        {
+            "from": 679.87,
+            "to": 682.41,
+            "location": 2,
+            "content": "如此 能确保去纽约的路径"
+        },
+        {
+            "from": 682.41,
+            "to": 686.41,
+            "location": 2,
+            "content": "你也能尽情享受 那台音乐机器"
+        },
+        {
+            "from": 691.75,
+            "to": 693.04,
+            "location": 2,
+            "content": "好 去"
+        },
+        {
+            "from": 695.12,
+            "to": 696.45,
+            "location": 2,
+            "content": "STOP"
+        },
+        {
+            "from": 698.58,
+            "to": 700.29,
+            "location": 2,
+            "content": "小姑娘 难道妳…"
+        },
+        {
+            "from": 707.45,
+            "to": 709.66,
+            "location": 2,
+            "content": "我说过多少次不能从窗户出去"
+        },
+        {
+            "from": 709.66,
+            "to": 711.2,
+            "location": 2,
+            "content": "你为何不阻止她"
+        },
+        {
+            "from": 711.2,
+            "to": 714.08,
+            "location": 2,
+            "content": "无论如何 音乐优先"
+        },
+        {
+            "from": 714.08,
+            "to": 716.16,
+            "location": 2,
+            "content": "而且也能打通道路"
+        },
+        {
+            "from": 716.16,
+            "to": 717.75,
+            "location": 2,
+            "content": "一举两得啊"
+        },
+        {
+            "from": 719.95,
+            "to": 721.5,
+            "location": 2,
+            "content": "讨厌"
+        },
+        {
+            "from": 723.62,
+            "to": 726.83,
+            "location": 2,
+            "content": "给我站住 珂赛特"
+        },
+        {
+            "from": 735.33,
+            "to": 737.04,
+            "location": 2,
+            "content": "噪音好大声"
+        },
+        {
+            "from": 737.04,
+            "to": 738.62,
+            "location": 2,
+            "content": "是数量吗"
+        },
+        {
+            "from": 738.62,
+            "to": 740.25,
+            "location": 2,
+            "content": "不 这是…"
+        },
+        {
+            "from": 742.79,
+            "to": 744.04,
+            "location": 2,
+            "content": "不行了"
+        },
+        {
+            "from": 752.75,
+            "to": 755.2,
+            "location": 2,
+            "content": "珂赛特 珂赛特 妳没事吧"
+        },
+        {
+            "from": 758.08,
+            "to": 759.37,
+            "location": 2,
+            "content": "不行"
+        },
+        {
+            "from": 760.79,
+            "to": 763.41,
+            "location": 2,
+            "content": "珂赛特"
+        },
+        {
+            "from": 766.66,
+            "to": 768.54,
+            "location": 2,
+            "content": "小哥 你没事吧"
+        },
+        {
+            "from": 770.95,
+            "to": 774.7,
+            "location": 2,
+            "content": "没想到是指挥者和奏者"
+        },
+        {
+            "from": 775.62,
+            "to": 779.83,
+            "location": 2,
+            "content": "他们 果然是来救我们的吧"
+        },
+        {
+            "from": 780.62,
+            "to": 782.91,
+            "location": 2,
+            "content": "重新整理目前的状况"
+        },
+        {
+            "from": 782.91,
+            "to": 785.62,
+            "location": 2,
+            "content": "我们的目的是什么"
+        },
+        {
+            "from": 785.62,
+            "to": 786.75,
+            "location": 2,
+            "content": "音乐"
+        },
+        {
+            "from": 787.54,
+            "to": 789.79,
+            "location": 2,
+            "content": "歼灭所有的D2"
+        },
+        {
+            "from": 789.79,
+            "to": 792.41,
+            "location": 2,
+            "content": "不对 完全不对"
+        },
+        {
+            "from": 792.41,
+            "to": 794.12,
+            "location": 2,
+            "content": "是去纽约吧"
+        },
+        {
+            "from": 794.12,
+            "to": 797.16,
+            "location": 2,
+            "content": "去交响乐团治好珂赛特对吧"
+        },
+        {
+            "from": 797.16,
+            "to": 799.2,
+            "location": 2,
+            "content": "为什么会搞不清楚呢"
+        },
+        {
+            "from": 799.2,
+            "to": 803.62,
+            "location": 2,
+            "content": "再这样 我们会永远到不了纽约的"
+        },
+        {
+            "from": 803.62,
+            "to": 805.87,
+            "location": 2,
+            "content": "是 或许在抵达之前"
+        },
+        {
+            "from": 805.87,
+            "to": 809.83,
+            "location": 2,
+            "content": "我和指挥家都会精疲力竭的"
+        },
+        {
+            "from": 814.91,
+            "to": 818.58,
+            "location": 2,
+            "content": "既然知道 就乖乖听话啊"
+        },
+        {
+            "from": 820.33,
+            "to": 821.87,
+            "location": 2,
+            "content": "我受够了"
+        },
+        {
+            "from": 821.87,
+            "to": 823.95,
+            "location": 2,
+            "content": "想想办法吧"
+        },
+        {
+            "from": 823.95,
+            "to": 827.25,
+            "location": 2,
+            "content": "指挥家太过任性才会这样"
+        },
+        {
+            "from": 827.25,
+            "to": 829.83,
+            "location": 2,
+            "content": "音乐能拯救世界"
+        },
+        {
+            "from": 829.83,
+            "to": 832.83,
+            "location": 2,
+            "content": "既然歼灭D2是妳的使命"
+        },
+        {
+            "from": 832.83,
+            "to": 835.45,
+            "location": 2,
+            "content": "那妳为何不消灭他们"
+        },
+        {
+            "from": 835.45,
+            "to": 838.37,
+            "location": 2,
+            "content": "#$%^&*()_*&^%$"
+        },
+        {
+            "from": 838.37,
+            "to": 840.08,
+            "location": 2,
+            "content": "吞下去再说"
+        },
+        {
+            "from": 844.08,
+            "to": 846.41,
+            "location": 2,
+            "content": "我已经做到最完善了"
+        },
+        {
+            "from": 851.54,
+            "to": 855.04,
+            "location": 2,
+            "content": "许多D2袭击过来"
+        },
+        {
+            "from": 855.95,
+            "to": 858.7,
+            "location": 2,
+            "content": "我也拼命回击"
+        },
+        {
+            "from": 858.7,
+            "to": 862.08,
+            "location": 2,
+            "content": "当我觉得没完没了时"
+        },
+        {
+            "from": 862.08,
+            "to": 864.66,
+            "location": 2,
+            "content": "就决定一口气炸掉他们"
+        },
+        {
+            "from": 866.45,
+            "to": 869.79,
+            "location": 2,
+            "content": "谁知此时突然来个大爆炸"
+        },
+        {
+            "from": 869.79,
+            "to": 873.83,
+            "location": 2,
+            "content": "不知道什么巨大物体"
+        },
+        {
+            "from": 879.08,
+            "to": 881.08,
+            "location": 2,
+            "content": "当然 我也用绞尽脑汁"
+        },
+        {
+            "from": 881.08,
+            "to": 886.45,
+            "location": 2,
+            "content": "想方设法引诱他出来"
+        },
+        {
+            "from": 886.45,
+            "to": 888.66,
+            "location": 2,
+            "content": "最后还是失败了"
+        },
+        {
+            "from": 888.66,
+            "to": 891.33,
+            "location": 2,
+            "content": "因为指挥家的卡路里不足"
+        },
+        {
+            "from": 891.33,
+            "to": 895.79,
+            "location": 2,
+            "content": "身为指挥者 至少到现场一趟吧"
+        },
+        {
+            "from": 895.79,
+            "to": 900.83,
+            "location": 2,
+            "content": "因为我看妳很有自信地飞出去"
+        },
+        {
+            "from": 900.83,
+            "to": 903.83,
+            "location": 2,
+            "content": "看来我太高估神经大条的奏者了"
+        },
+        {
+            "from": 904.58,
+            "to": 905.66,
+            "location": 2,
+            "content": "Shut up"
+        },
+        {
+            "from": 905.66,
+            "to": 909.0,
+            "location": 2,
+            "content": "总之禁止乱来 也禁止突袭"
+        },
+        {
+            "from": 911.41,
+            "to": 913.91,
+            "location": 2,
+            "content": "不想办法解决那个大块头"
+        },
+        {
+            "from": 913.91,
+            "to": 917.2,
+            "location": 2,
+            "content": "这里就无法听到音乐"
+        },
+        {
+            "from": 917.2,
+            "to": 919.54,
+            "location": 2,
+            "content": "也无法继续前进"
+        },
+        {
+            "from": 919.54,
+            "to": 921.25,
+            "location": 2,
+            "content": "别说得好像顺便似的"
+        },
+        {
+            "from": 921.25,
+            "to": 924.7,
+            "location": 2,
+            "content": "大块头 坚持不肯离开地底下"
+        },
+        {
+            "from": 924.7,
+            "to": 928.45,
+            "location": 2,
+            "content": "能抵达他身边的话"
+        },
+        {
+            "from": 928.45,
+            "to": 931.58,
+            "location": 2,
+            "content": "地底下啊… 有什么东西呢"
+        },
+        {
+            "from": 931.58,
+            "to": 933.66,
+            "location": 2,
+            "content": "随便啦"
+        },
+        {
+            "from": 933.66,
+            "to": 936.95,
+            "location": 2,
+            "content": "反正就是想办法引他出来"
+        },
+        {
+            "from": 936.95,
+            "to": 938.45,
+            "location": 2,
+            "content": "让他无法躲起来"
+        },
+        {
+            "from": 938.45,
+            "to": 942.0,
+            "location": 2,
+            "content": "然后再由我 一口气灭了他"
+        },
+        {
+            "from": 943.66,
+            "to": 945.91,
+            "location": 2,
+            "content": "你想到什么办法了吗"
+        },
+        {
+            "from": 947.5,
+            "to": 950.12,
+            "location": 2,
+            "content": "让他们尽情地听"
+        },
+        {
+            "from": 950.12,
+            "to": 952.2,
+            "location": 2,
+            "content": "他们\"最爱\"的音乐"
+        },
+        {
+            "from": 953.5,
+            "to": 955.5,
+            "location": 2,
+            "content": "究竟事隔多久"
+        },
+        {
+            "from": 955.5,
+            "to": 957.79,
+            "location": 2,
+            "content": "没听现场演奏会了"
+        },
+        {
+            "from": 957.79,
+            "to": 959.37,
+            "location": 2,
+            "content": "我好兴奋喔"
+        },
+        {
+            "from": 959.37,
+            "to": 962.41,
+            "location": 2,
+            "content": "奏者打倒D2"
+        },
+        {
+            "from": 962.41,
+            "to": 964.95,
+            "location": 2,
+            "content": "就表示这里已经安全了"
+        },
+        {
+            "from": 964.95,
+            "to": 967.66,
+            "location": 2,
+            "content": "妈妈 我能摸那个吗"
+        },
+        {
+            "from": 967.66,
+            "to": 968.91,
+            "location": 2,
+            "content": "可以啊"
+        },
+        {
+            "from": 968.91,
+            "to": 970.2,
+            "location": 2,
+            "content": "好耶"
+        },
+        {
+            "from": 976.33,
+            "to": 978.75,
+            "location": 2,
+            "content": "抱歉 稍微借我一下"
+        },
+        {
+            "from": 1003.91,
+            "to": 1007.41,
+            "location": 2,
+            "content": "D2讨厌人类创造的音乐"
+        },
+        {
+            "from": 1007.41,
+            "to": 1010.91,
+            "location": 2,
+            "content": "特别是和谐又优美的音乐"
+        },
+        {
+            "from": 1011.95,
+            "to": 1015.95,
+            "location": 2,
+            "content": "乐声越美他们就越受不了"
+        },
+        {
+            "from": 1015.95,
+            "to": 1017.5,
+            "location": 2,
+            "content": "音乐也就越有破坏性"
+        },
+        {
+            "from": 1021.16,
+            "to": 1024.16,
+            "location": 2,
+            "content": "好了 演奏会开始"
+        },
+        {
+            "from": 1071.12,
+            "to": 1074.12,
+            "location": 2,
+            "content": "黑色石头 原来如此"
+        },
+        {
+            "from": 1074.87,
+            "to": 1078.83,
+            "location": 2,
+            "content": "D2是被黑夜陨铁吸引"
+        },
+        {
+            "from": 1078.83,
+            "to": 1080.75,
+            "location": 2,
+            "content": "难怪不肯出来"
+        },
+        {
+            "from": 1091.33,
+            "to": 1092.75,
+            "location": 2,
+            "content": "妳要睡到什么时候"
+        },
+        {
+            "from": 1100.29,
+            "to": 1101.66,
+            "location": 2,
+            "content": "演奏开始"
+        },
+        {
+            "from": 1163.25,
+            "to": 1167.29,
+            "location": 2,
+            "content": "是那颗巨大黑夜陨铁的力量吧"
+        },
+        {
+            "from": 1167.29,
+            "to": 1168.62,
+            "location": 2,
+            "content": "真麻烦"
+        },
+        {
+            "from": 1169.16,
+            "to": 1170.79,
+            "location": 2,
+            "content": "那么就把那颗陨铁…"
+        },
+        {
+            "from": 1172.41,
+            "to": 1173.87,
+            "location": 2,
+            "content": "打碎"
+        },
+        {
+            "from": 1187.95,
+            "to": 1190.54,
+            "location": 2,
+            "content": "解放音乐"
+        },
+        {
+            "from": 1233.95,
+            "to": 1235.37,
+            "location": 2,
+            "content": "干得好"
+        },
+        {
+            "from": 1276.66,
+            "to": 1279.16,
+            "location": 2,
+            "content": "总算平安开通这条道路了"
+        },
+        {
+            "from": 1279.16,
+            "to": 1282.29,
+            "location": 2,
+            "content": "就这样直冲纽约吧"
+        },
+        {
+            "from": 1283.87,
+            "to": 1287.54,
+            "location": 2,
+            "content": "今天似乎能过上美好的一天"
+        },
+        {
+            "from": 1287.54,
+            "to": 1291.7,
+            "location": 2,
+            "content": "人为何只为了得到营养"
+        },
+        {
+            "from": 1291.7,
+            "to": 1295.2,
+            "location": 2,
+            "content": "而奉献了如此厉害的技术与热诚"
+        },
+        {
+            "from": 1295.2,
+            "to": 1297.79,
+            "location": 2,
+            "content": "这次只是碰巧成功"
+        },
+        {
+            "from": 1297.79,
+            "to": 1300.95,
+            "location": 2,
+            "content": "但还是请两位协助旅途顺畅"
+        },
+        {
+            "from": 1300.95,
+            "to": 1303.16,
+            "location": 2,
+            "content": "尤其是那边的某位人士"
+        },
+        {
+            "from": 1303.16,
+            "to": 1306.16,
+            "location": 2,
+            "content": "下次我想弹平台钢琴"
+        },
+        {
+            "from": 1306.16,
+            "to": 1308.29,
+            "location": 2,
+            "content": "应该还留下几台"
+        },
+        {
+            "from": 1308.29,
+            "to": 1310.54,
+            "location": 2,
+            "content": "可惜的是这个洞"
+        },
+        {
+            "from": 1310.54,
+            "to": 1312.16,
+            "location": 2,
+            "content": "就算有千万个理由"
+        },
+        {
+            "from": 1312.16,
+            "to": 1315.16,
+            "location": 2,
+            "content": "也不该留下如此遗憾的缺陷"
+        },
+        {
+            "from": 1315.16,
+            "to": 1316.87,
+            "location": 2,
+            "content": "听我说…"
+        },
+        {
+            "from": 1317.83,
+            "to": 1319.95,
+            "location": 2,
+            "content": "天气真好…"
+        },
+        {
+            "from": 1319.95,
+            "to": 1324.04,
+            "location": 2,
+            "content": "这些卡路里将给予我全新的力量"
+        },
+        {
+            "from": 1325.2,
+            "to": 1329.95,
+            "location": 2,
+            "content": "来人啊 拜托听我说话"
+        }
+    ]
+}
